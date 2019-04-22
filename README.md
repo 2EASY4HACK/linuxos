@@ -18,3 +18,7 @@ $ cd linuxos
 $ chmod +x setup
 $ bash setup
 ```
+**For run this tools just excute this script**
+```
+$ bash jalan.sh Or ./jalan.sh
+```
