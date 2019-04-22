@@ -14,4 +14,4 @@ mv ubuntu /data/data/com.termux/files/usr/etc/oslinux
 mv about /data/data/com.termux/files/usr/etc/oslinux
 rm -f /data/data/com.termux/files/home/linuxos/oslinux.zip
 rm -f /data/data/com.termux/files/home/linuxos/setup
-rm -f /data/data/com.termux/files/home/linuxos/LICENCE
+rm -f /data/data/com.termux/files/home/linuxos/LICENSE
