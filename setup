@@ -2,7 +2,7 @@
 #2E4H Team
 
 pkg update
-pkg install debootstrap wget proot curl
+pkg install debootstrap wget proot curl -y
 unzip oslinux.zip
 cd /data/data/com.termux/files/usr/etc
 mkdir /data/data/com.termux/files/usr/etc/oslinux
