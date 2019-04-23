@@ -1,4 +1,5 @@
 ![APM](https://img.shields.io/apm/l/vim-mode.svg?style=popout)![APM](https://img.shields.io/badge/Tested%20On-Android-brightgreen.svg)
+![Twitter URL](https://img.shields.io/twitter/url/http/twitter.com/2e4hteam.svg?style=social)
 ## Introduction
 Linuxos Or Linux Os This tool is to install OS Linux on Android Termux without root required
 
